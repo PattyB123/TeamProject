@@ -14,6 +14,7 @@ static Plugin plugin;
 public void onEnable() {
 	PluginDescriptionFile config = this.getDescription();
 	this.logger.info(config.getName() + " Version "  + config.getVersion() + " Has been Enabled!");
+	//I KICK ASS
 }
 
 @Override
